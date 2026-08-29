@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "birthday-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765", "-d", "C:/Users/Bhargav/Downloads/HappyBirthday-main/HappyBirthday-main"],
+      "port": 8765
+    }
+  ]
+}

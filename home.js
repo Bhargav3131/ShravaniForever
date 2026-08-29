@@ -15,10 +15,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ===== CONFIGURATION - CUSTOMIZE THESE! =====
     // CUSTOMIZE: Set the birthday date (format: 'Month Day, Year HH:MM:SS')
-    const birthdayDate = new Date('August 22, 2026 00:00:00').getTime();
+    const birthdayDate = new Date('August 30, 2026 00:00:00').getTime();
 
     // CUSTOMIZE: Change this greeting message
-    const greetingText = "Hey Kuchu Puchu! Six years in and you still give me butterflies. Happy Birthday, my love! 💖";
+    const greetingText = "Hey Sonu! Three months of knowing you and you still make me smile every single day. Happy Birthday! 💖";
 
     // CUSTOMIZE: Change floating elements if desired
     const floatingElements = ['💖', '✨', '🌸', '💫', '💕'];

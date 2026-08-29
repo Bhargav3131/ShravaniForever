@@ -36,43 +36,43 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because after six whole years together, your smile still makes my heart skip a beat.",
+        text: "Because it's only been three months and you've already become the best part of my day.",
         emoji: "💗",
         gif: "gif1.gif"
     },
     {
-        text: "Because you understand me better than anyone ever has.",
+        text: "Because talking to you is somehow the easiest thing in the world.",
         emoji: "🥰",
         gif: "gif2.gif"
     },
     {
-        text: "Because even the most ordinary day turns into an adventure when I'm with you.",
+        text: "Because even an ordinary boring day gets better the second your name pops up on my phone.",
         emoji: "✨",
         gif: "gif1.gif"
     },
     {
-        text: "Because your laugh is my favourite sound in the whole world.",
+        text: "Because your laugh is honestly my favourite sound.",
         emoji: "😍",
         gif: "gif2.gif"
     },
     {
-        text: "Because you stay right by my side on the good days and the hard ones alike.",
-        emoji: "💞",
+        text: "Because you're so easy to be around, and that's rarer than people think.",
+        emoji: "💫",
         gif: "gif1.gif"
     },
     {
-        text: "Because you make everywhere we are feel like home.",
-        emoji: "🏡",
+        text: "Because you make me want to be a slightly better version of myself.",
+        emoji: "🌱",
         gif: "gif2.gif"
     },
     {
-        text: "Because you somehow get more beautiful, inside and out, every single year.",
+        text: "Because the more I get to know you, the more amazing you turn out to be.",
         emoji: "🎂",
         gif: "gif1.gif"
     },
     {
-        text: "Because six years in, I'd choose you all over again, my Kuchu Puchu.",
-        emoji: "💍",
+        text: "Because out of everyone I could have met, I'm really glad it was you, Sonu.",
+        emoji: "🎈",
         gif: "gif2.gif"
     }
 ];
